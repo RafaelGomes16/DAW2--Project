@@ -1,6 +1,6 @@
-# DAW2--Project
+# DAW2--Project :
 
-Neste Projeto foi :
+Tópicos implemtetados neste Projeto:
 
 utilização de uma máquina virtual debian como workspace;
 
