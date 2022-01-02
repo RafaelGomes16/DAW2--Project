@@ -1,6 +1,6 @@
 # DAW2--Project :
 
-Tópicos implemtetados neste Projeto Curricular:
+Tópicos implementados neste Projeto Curricular:
 
 utilização de uma máquina virtual debian como workspace;
 
